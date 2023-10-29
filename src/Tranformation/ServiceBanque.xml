@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BS>
+  <conversion>
+    <montant>0.0</montant>
+  </conversion>
+  <GetCompte>
+    <code>0.0</code>
+    <solde>0.0</solde>
+    <date>2001-01-01</date>
+  </GetCompte>
+  <GetComptes>
+    <code>0.0</code>
+    <solde>8.0</solde>
+    <date>2001-05-05</date>
+  </GetComptes>
+  <GetComptes>
+    <code>0.0</code>
+    <solde>5.0</solde>
+    <date>1996-01-01</date>
+  </GetComptes>
+  <GetComptes>
+    <code>0.0</code>
+    <solde>3.0</solde>
+    <date>1995-01-01</date>
+  </GetComptes>
+  <GetComptes>
+    <code>0.0</code>
+    <solde>2.5</solde>
+    <date>2002-01-01</date>
+  </GetComptes>
+</BS>

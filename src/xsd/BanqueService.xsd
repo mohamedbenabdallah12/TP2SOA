@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/BanqueService"
+	xmlns:tns="http://www.example.org/BanqueService"
+	elementFormDefault="qualified">
+	<element name="BS">
+		<complexType>
+			<sequence>
+				<element name="conversion" type="tns:conversiontype">
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+	<complexType name="conversiontype">
+		<sequence>
+			<element name="montant" type="double">
+			</element>
+		</sequence>
+	</complexType>
+</schema>
